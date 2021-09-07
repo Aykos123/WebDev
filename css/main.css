@@ -142,7 +142,7 @@ textarea {
 }
 
 .mb-0 {
-    margin-bottom: 0 !important ;
+    margin-bottom: 0 !important;
 }
 
 /* Buttons */
@@ -373,6 +373,7 @@ textarea {
         order: initial;
         margin-bottom: 0;
     }
+
     .split-section__image,
     .split-section__text {
         max-width: 50%;
